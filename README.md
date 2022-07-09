@@ -7,7 +7,7 @@
 
 Submission of [SourceAFIS](https://sourceafis.machinezoo.com/) extractor
 to [Fingerprint Verification](https://biolab.csr.unibo.it/FVCOnGoing/UI/Form/BenchmarkAreas/BenchmarkAreaFV.aspx) benchmark
-in [FVC-onGoing](https://biolab.csr.unibo.it/FVCOnGoing/UI/Form/Home.aspx).
+in [FVC-onGoing](https://biolab.csr.unibo.it/FVCOnGoing/UI/Form/Home.aspx) competition.
 
 ## Status
 
