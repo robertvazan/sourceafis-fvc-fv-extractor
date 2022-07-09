@@ -9,12 +9,19 @@ Submission of [SourceAFIS](https://sourceafis.machinezoo.com/) extractor
 to [Fingerprint Verification](https://biolab.csr.unibo.it/FVCOnGoing/UI/Form/BenchmarkAreas/BenchmarkAreaFV.aspx) benchmark
 in [FVC-onGoing](https://biolab.csr.unibo.it/FVCOnGoing/UI/Form/Home.aspx) competition.
 
+More on [homepage](https://sourceafis.machinezoo.com/fvc).
+
 ## Status
 
 Stable and maintained.
 
+## Getting started
+
+See [homepage](https://sourceafis.machinezoo.com/fvc).
+
 ## Documentation
 
+* [Homepage](https://sourceafis.machinezoo.com/fvc)
 * [SourceAFIS overview](https://sourceafis.machinezoo.com/)
 
 ## Feedback

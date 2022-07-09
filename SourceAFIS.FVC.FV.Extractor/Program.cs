@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 
-namespace SourceAFIS.Fvc.FV.Extractor;
+namespace SourceAFIS.FVC.FV.Extractor;
 
 public class Program
 {
