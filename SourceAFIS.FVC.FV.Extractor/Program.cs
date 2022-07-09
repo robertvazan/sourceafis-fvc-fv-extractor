@@ -26,7 +26,7 @@ public class Program
         {
             if (template != null)
                 File.WriteAllBytes(args[1], template);
-            File.AppendAllText(args[2], string.Format("{0} {1} {2}\n", args[0], args[1], template != null ? "OK" : "FAIL"));
+            File.AppendAllText(args[2], string.Format("{0} {1} {2}", args[0], args[1], template != null ? "OK" : "FAIL"));
         }
         catch (Exception ex)
         {
